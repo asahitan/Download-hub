@@ -77,9 +77,9 @@ button:hover {
 }
 
 footer {
-  margin-top: 2rem;
+  margin-top: 1.7rem;
   padding-top: 1rem;
-  border-top: 1px solid #00ffd9;
+  border-top: 1px solid #FF0000;
   color: #bfbfbf;
   font-size: 0.9rem;
 }
